@@ -1,0 +1,4 @@
+services:
+#    lfv_les2echecs_selon_lucie_m.example:
+#        class: LFV\Les2echecsSelonLucieMBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

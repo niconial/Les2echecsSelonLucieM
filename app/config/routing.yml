@@ -1,0 +1,4 @@
+lfv_les2echecs_selon_lucie_m:
+    resource: "@LFVLes2echecsSelonLucieMBundle/Controller/"
+    type:     annotation
+    prefix:   /
